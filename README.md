@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Sathwik-parimi-07
-- 👀 I’m interested in mathematics..
+- 👀 I’m interested in mathematics..and AI
 - 🌱 I’m currently student @IIT (ISM) DHANBAD.
 - 📫 reach me ON sathwikparimi777@gmail.com
-- ⚡ Fun fact: research in maths ever hurts you.
+- ⚡ Fun fact: research in maths Never hurts you.
 
 <!---
 Sathwik-parimi-07/Sathwik-parimi-07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
